@@ -282,6 +282,76 @@ ANS: C
 
 [SUBJECT: History]
 [CHAPTER: Indus Valley Civilization]
+Q: Which of the following Harappan site evidenced the pot burial practices?
+A) Lothal
+B) Surkotada
+C) Mohenjodaro
+D) Chanhudaro
+ANS: B
+
+Q: Which of the following was the first site where Indus Valley Civilization was discovered?
+A) Amri
+B) Kotdiji
+C) Harappa
+D) Mohenjodaro
+ANS: C
+
+Q: Which of the following statements is true about the religious practices of the Harappan people?
+A) They worshipped in temples
+B) They had a class of priests
+C) No temple has been unearthed
+D) They worshipped animal gods
+ANS: C
+
+Q: The Dancing Girl and the Bearded Man figure found at the site of Mohenjodaro were made up of which materials?
+A) Clay and Bronze respectively
+B) Copper and Steatite respectively
+C) Bronze and Steatite respectively
+D) Steatite and Gold respectively
+ANS: C
+
+Q: Which of the following period of the stone age first witnessed the domestication of animals?
+A) Paleolithic Age
+B) Chalcolithic Age
+C) Neolithic Age
+D) Mesolithic Age
+ANS: D
+
+Q: Which of the following is also known as 'New Stone Age' in the civilization history of India?
+A) Epipaleolithic
+B) Mesolithic
+C) Paleolithic
+D) Neolithic
+ANS: D
+
+Q: Which of the following is a major Stone Age site in Rajasthan?
+A) Bagor
+B) Rangmahal
+C) Ganeshwar
+D) Nagri
+ANS: A
+
+Q: Punch-marked coins from the sixth century BCE onwards were made of silver and which of the following materials?
+A) Zinc
+B) Gold
+C) Copper
+D) Aluminium
+ANS: C
+
+Q: "Banawali" - a major city of IVC is presently located at which among the following states of India?
+A) Madhya Pradesh
+B) Rajasthan
+C) Gujrat
+D) Haryana
+ANS: D
+
+Q: Which of the following animals has been found engraved on most of the seals of IVC?
+A) Elephant
+B) Tiger
+C) Unicorn
+D) Horse
+ANS: C
+
 Q: The time period conventionally accepted for the Matuare Harappan Phase (Indus Valley Civilization) is:
 A) 3000 BC - 2600 BC
 B) 2600 BC - 1900 BC
