@@ -709,12 +709,14 @@ B) Samaveda
 C) Yajurveda
 D) Atharvaveda
 ANS: D
+
 Q: The national motto, Satyameva Jayate (Truth Alone Triumphs), is taken from which Upanishad?
-A) Manduka Upanishad
+A) Mundaka Upanishad
 B) Maha Upanishad
 C) Jabala Upanishad
 D) Ken Upanishad
 ANS: A
+
 Q: The concept of Vasudhaiva Kutumbakam (The whole world is one family) is derived from which Upanishad?
 A) Manduka Upanishad
 B) Maha Upanishad
@@ -907,7 +909,7 @@ B) Moksha (Salvation)
 C) Kama (Desire/Passion)
 D) Siddhi (Perfection/Achievement)
 ANS: D
-Q: Who composed the six Puranas, a group of texts that were compiled later (around the Gupta period) but are central to Hindu tradition?
+Q: Who composed the 18 Puranas, a group of texts that were compiled later (around the Gupta period) but are central to Hindu tradition?
 A) Valmiki
 B) Vyasa
 C) Vishwamitra
@@ -1162,10 +1164,10 @@ B) The original teachings and sermons of the Buddha.
 C) The rules and regulations for the Monastic Order (Sangha).
 D) Tales of Buddha's previous births.
 ANS: C
-Q: The famous text Milinda Panho (Questions of Milinda) is a dialogue between the Indo-Greek King Menander (Milinda) and the Buddhist monk:
+Q: The famous text Milinda Panho is a dialogue between the Indo-Greek King Menander (Milinda) and the Buddhist monk:
 A) Ashvaghosha
 B) Vasumitra
-C) Nagasena (Nagarjuna)
+C) Nagasena
 D) Upagupta
 ANS: C
 Q: The biographical work Buddhacharita (Life of Buddha), written in Sanskrit, was composed by:
@@ -2483,7 +2485,7 @@ ANS: B
 Q: The tax levied on the plow/plough-holders during the Gupta period was known as:
 A) Udakabhaga
 B) Hiranya
-C) Halvarika
+C) Halivakara
 D) Bali
 ANS: C
 Q: The tax collected on water or irrigation facilities during the Gupta period was known as:
@@ -2587,7 +2589,7 @@ A) 1/6
 B) 1/8
 C) 1/4
 D) 1/2
-ANS: C
+ANS: A
 Q: The famous Chinese pilgrim Faxian visited India primarily to:
 A) Establish trade links with the Gupta Empire.
 B) Study the Sanskrit language.
@@ -3988,7 +3990,6 @@ ANS: B
 
 [SUBJECT: History]
 [CHAPTER: Delhi Sultanate Part 2]
-Sayyid, Lodi Dynasties)]
 Q: The Khalji Dynasty was founded by Jalaluddin Khalji, who overthrew the last Mamluk (Slave) ruler in 1290 AD. The Khaljis are known for ending the Turkish monopoly on administration and starting a trend toward:
 A) Hereditary rule.
 B) Meritocracy and rule of non-Turkish nobles.
@@ -4436,7 +4437,7 @@ A) Alauddin Khalji killing Jalaluddin Khalji.
 B) Khusrau Khan killing Mubarak Shah Khalji.
 C) Ghiyasuddin Tughlaq killing Khusrau Khan.
 D) Malik Kafur killing Alauddin Khalji.
-ANS: B
+ANS: C
 Q: Alauddin Khalji maintained a spy network of secret agents and news-reporters, including Barids (intelligence officers) and:
 A) Muqtis
 B) Amirs
@@ -5145,7 +5146,7 @@ A) Akbar
 B) Jahangir
 C) Shah Jahan
 D) Aurangzeb
-ANS: C
+ANS: D
 Q: The Diwan-i-Aam (Hall of Public Audience) in the Mughal forts was used by the Emperor for:
 A) Private consultation with the Vizier.
 B) Dispensing justice to the general public.
@@ -6324,7 +6325,7 @@ ANS: A
 Q: The British Governor-General who was present during the decisive Battle of Buxar (1764 AD) was:
 A) Robert Clive
 B) Lord Cornwallis
-C) Warren Hastings
+C) Henry Vansittart
 D) Lord Wellesley
 ANS: C
 Q: The First Anglo-Afghan War (1839–1842 AD) was fought by the British largely to counter the growing influence of:
@@ -7304,7 +7305,7 @@ A) Henry Lawrence
 B) Colin Campbell
 C) Hugh Rose
 D) Havelock
-ANS: A
+ANS: B
 Q: The British General who suppressed the Revolt in Jhansi was:
 A) Colin Campbell
 B) Hugh Rose
@@ -7481,7 +7482,7 @@ A) Lord Curzon
 B) Lord Dufferin
 C) Lord Lytton
 D) Lord Elgin
-ANS: C
+ANS: B
 Q: The controversy surrounding which piece of legislation is considered the immediate cause for the formation of the INC, as it angered both Indian and British populations?
 A) Vernacular Press Act (1878)
 B) Ilbert Bill (1883)
@@ -8668,12 +8669,7 @@ B) Sardar Vallabhbhai Patel
 C) C. Rajagopalachari
 D) Jawaharlal Nehru
 ANS: A
-Q: The leader who was assassinated in 1934 AD after being convicted in the Lahore Conspiracy Case was:
-A) Bhagat Singh
-B) Jatin Das
-C) Rajguru
-D) Sukhdev
-ANS: B
+
 Q: The revolutionary organization Hindustan Socialist Republican Association (HSRA) was formed in 1928 AD by:
 A) Chandrashekhar Azad and Bhagat Singh
 B) Subhas Chandra Bose and J. P. Narayan
@@ -8939,12 +8935,7 @@ B) Lord Irwin
 C) Lord Willingdon
 D) Lord Linlithgow
 ANS: B
-Q: The revolutionary who was arrested while attempting to kill Viceroy Lord Irwin in the train bombing incident (1929 AD) was:
-A) Chandrashekhar Azad
-B) Bhagat Singh
-C) Batukeshwar Dutt
-D) Jatin Das
-ANS: D
+
 Q: The Poorna Swaraj (Complete Independence) resolution was passed at the Lahore session in 1929 AD, marking a shift from the earlier demand for:
 A) Constitutional reforms
 B) Dominion Status
@@ -8962,7 +8953,7 @@ A) Mahatma Gandhi
 B) Jawaharlal Nehru
 C) Motilal Nehru
 D) Vallabhbhai Patel
-ANS: B
+ANS: A
 Q: The leader of the Red Shirt Movement (Khudai Khidmatgar) in the North-West Frontier Province (NWFP) was:
 A) Sardar Patel
 B) Maulana Abul Kalam Azad
@@ -9449,7 +9440,7 @@ A) S. P. Sinha
 B) C. Rajagopalachari
 C) B. R. Ambedkar
 D) J. L. Nehru
-ANS: C
+ANS: A
 Q: The Simon Commission was set up in 1927 AD and arrived in India in:
 A) 1928 AD
 B) 1929 AD
@@ -9654,7 +9645,7 @@ A) Lord Canning
 B) Lord Elgin I
 C) Lord Lawrence
 D) Lord Lytton
-ANS: B
+ANS: A
 Q: The first official (synchronized) Census of India was conducted in 1881 AD during the tenure of:
 A) Lord Mayo
 B) Lord Lytton
@@ -9826,7 +9817,7 @@ A) Lord Hastings
 B) Lord Amherst
 C) Lord William Bentinck
 D) Lord Auckland
-ANS: B
+ANS: C
 Q: The Viceroy who established the Department of Archaeology and Survey of India (ASI) was:
 A) Lord Ripon
 B) Lord Dufferin
@@ -10016,7 +10007,7 @@ A) Lord Lytton
 B) Lord Dufferin
 C) Lord Lansdowne
 D) Lord Curzon
-ANS: B
+ANS: A
 Q: The last Governor-General of India and the first Viceroy of India was:
 A) Lord Dalhousie
 B) Lord Canning
@@ -10106,7 +10097,7 @@ A) Lord Curzon
 B) Lord Minto II
 C) Lord Hardinge II
 D) Lord Chelmsford
-ANS: B
+ANS: A
 Q: The only Governor-General to be impeached in the British Parliament was:
 A) Lord Cornwallis
 B) Warren Hastings
